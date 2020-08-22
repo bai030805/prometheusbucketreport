@@ -124,7 +124,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>org.example.Collectwithwhileloop</mainClass>
+              <mainClass>org.example.BucketUtiExporter</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
