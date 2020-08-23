@@ -18,6 +18,9 @@ import java.util.Map;
 
 public class MyRestAPIConnect{
 
+
+
+
     String ECSUser;
     String ECSPassword;
     String VDC1IP;
